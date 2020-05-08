@@ -1,2 +1,0 @@
-# rickandmorty
-Created with CodeSandbox
